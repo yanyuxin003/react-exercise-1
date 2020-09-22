@@ -3,8 +3,8 @@
 1.安装包依赖
 
 ```
-npm install
-```
+
+npm install```
 
 2.启动服务 localhost:3000，更新文件会实时加载
 

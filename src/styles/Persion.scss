@@ -1,0 +1,27 @@
+.Persion {
+  //整个类的文字都是居中的
+    text-align: center;
+  }
+  
+  .User {
+    border-radius: 50%;
+    width:150px;
+    height: 150px;
+    margin-top: -70px;
+  }
+  
+  h1 {
+    // font-size: 2.4em; main.scss设置了
+    padding-top: 30px;
+
+  }
+  
+  h2 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  
+  hr {
+    border-color: grey;
+    border-width: 2px;
+  }
